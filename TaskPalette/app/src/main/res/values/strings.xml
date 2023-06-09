@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Task Palette</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="enter_task_name">Enter task name</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="listnify_to_do_list">Task Palette : to-do list</string>
+    <string name="select_the_task_color">Select the task color</string>
+    <string name="how_to_use">When you open the app, you\'ll see three tabs at the top: \"Must do,\" \"Should do,\" and \"Could do.\" These tabs represent different priority levels for your tasks.\n\n* To add a new task, simply tap on the \"Add Task\" button located at the bottom right corner of the screen. This will open a dialog box where you can enter the details of your task.\n\n* If you\'re in the \"Must do\" tab, you can set a due date and time for the task. You can also choose a color to visually distinguish your tasks. Enter a name for the task and tap \"Save\" to add it to the \"Must do\" section.\n\n* Similarly, if you\'re in the \"Should do\" or \"Could do\" tabs, you can add tasks without specifying a due date or time. Just enter a name for the task and tap \"Save\" to add it to the respective section.\n\nOnce a task is added, you\'ll see it listed in the corresponding tab. If you want to mark a task as completed, simply tap the checkbox next to it. The task\'s text will be crossed out, indicating that it\'s completed.\n\n* If you want to delete a task, swipe it to the left side. The app will prompt you to confirm whether you want to delete the task or not.</string>
+
+</resources>
